@@ -1,0 +1,2 @@
+timestamp_evento,camera,arquivo,qtd_frames,duracao_video_s,latencia_gravacao_s,frames_perdidos_estimado,fps_gravacao
+20261012_101752,cam2,video_20261012_101752_cam2.mp4,600,30.0,7.751,1604,20.0

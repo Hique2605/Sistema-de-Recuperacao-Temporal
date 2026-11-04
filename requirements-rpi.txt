@@ -1,0 +1,11 @@
+# Instale isso ALÉM do requirements.txt somente se for usar o
+# botão físico via GPIO (Raspberry Pi):
+#
+#   pip install -r requirements.txt
+#   pip install -r requirements-rpi.txt
+#
+# No Raspberry Pi OS o RPi.GPIO já costuma vir pré-instalado; o
+# gpiozero é a camada de alto nível usada em src/gpio_control.py.
+
+gpiozero>=2.0
+RPi.GPIO>=0.7.1 ; platform_machine == "armv7l" or platform_machine == "aarch64"
