@@ -1,3 +1,0 @@
-timestamp_evento,camera,arquivo,qtd_frames,duracao_video_s,latencia_gravacao_s,frames_perdidos_estimado,fps_gravacao
-20261009_235954,cam1,video_20261009_235954_cam1.mp4,600,30.0,6.712,735,20.0
-20261009_235954,cam2,video_20261009_235954_cam2.mp4,600,30.0,4.93,736,20.0
